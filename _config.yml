@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Batia Friedman-Shaw"
-  avatar : "/assets/images/self_pic copy.jpg"
+  avatar : "/assets/images/self_pic_square.jpg"
   bio    : "So long and thanks for all the fish."
   links:
     - label: "arXiv"
