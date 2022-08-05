@@ -9,26 +9,26 @@ header:
   actions:
     - label: "Download"
       url: "#test-link"
-excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
+excerpt: "Tester page for tester things. Hope no one manages to find this site while on it, experiments are being conducted."
 intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+  - excerpt: 'Secret tunnel. Secret tunnel. Through the mountains. Secret. Secret. Secret. Secret. Tunnel.'
 
 feature_row:
   - image_path: /assets/images/galaxyDrawing.png
-    title: "Placeholder 1"
-    excerpt: "Sample text 1 with **markdown** formatting."
+    title: "Galaxy"
+    excerpt: "I made this in photoshop one time. Pretty cool, huh?"
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/chalkboard.png
     title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "I wrote these equations just so I'd have a not-boring picture for some application. They're related to inflation (cosmologial, not economic)."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/batia_and_charlie.jpg
     title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "This is my baby, Charlie Girl (ע״ה). I should put on a picture of my other baby, Sammie (ע״ה). "
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
