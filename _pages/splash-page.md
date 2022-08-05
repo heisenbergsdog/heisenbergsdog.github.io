@@ -36,7 +36,7 @@ feature_row:
 feature_row_left:
   - image_path: /assets/images/galaxyDrawing.png
     title: "Left aligned placeholder 1"
-    excerpt: "Left-aligned image centered with"
+    excerpt: "Left-aligned image"
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -44,7 +44,7 @@ feature_row_left:
 feature_row_right:
   - image_path: /assets/images/chalkboard.png
     title: "Placeholder 1"
-    excerpt: "Right-aligned image with"
+    excerpt: "Right-aligned image"
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
