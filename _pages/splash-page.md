@@ -9,7 +9,7 @@ header:
   actions:
     - label: "Download"
       url: "#test-link"
-excerpt: "Tester page for tester things. Hope no one manages to find this site while on it, experiments are being conducted."
+excerpt: "Tester page for tester things. Hope no one manages to find this site while experimental things are being conducted."
 intro: 
   - excerpt: 'Secret tunnel. Secret tunnel. Through the mountains. Secret. Secret. Secret. Secret. Tunnel.'
 
@@ -22,7 +22,7 @@ feature_row:
     btn_class: "btn--primary"
   - image_path: /assets/images/chalkboard.png
     title: "Placeholder 2"
-    excerpt: "I wrote these equations just so I'd have a not-boring picture for some application. They're related to inflation (cosmologial, not economic)."
+    excerpt: "I wrote these equations just so I'd have a not-boring picture for some application. They're related to inflation (cosmological, not economical)."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
