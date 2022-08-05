@@ -17,19 +17,19 @@ feature_row:
   - image_path: /assets/images/galaxyDrawing.png
     title: "Placeholder 1"
     excerpt: "Sample text 1 with **markdown** formatting."
-    `url: "#test-link"`
+    url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/chalkboard.png
     title: "Placeholder 2"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    `url: "#test-link"`
+    url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--secondar"
   - image_path: /assets/images/batia_and_charlie.heic
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    `url: "#test-link"`
+    url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
     
@@ -37,7 +37,7 @@ feature_row_left:
   - image_path: /assets/images/galaxyDrawing.jpg
     title: "Left aligned placeholder 1"
     excerpt: "Left-aligned image centered with"
-    `url: "#test-link"`
+    url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
     
@@ -45,7 +45,7 @@ feature_row_right:
   - image_path: /assets/images/chalkboard.png
     title: "Placeholder 1"
     excerpt: "Right-aligned image with"
-    `url: "#test-link"`
+    url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
