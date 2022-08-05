@@ -1,5 +1,5 @@
 ---
-title: "Post: Quote"
+title: "Post: Favorite Hitchhiker's Guide Quotes"
 categories:
   - Blog
 tags:
@@ -8,5 +8,6 @@ tags:
 ---
 
 > Only one thing is impossible for God: To find any sense in any copyright law on the planet.
+> The ships hung in the sky much in the same way that bricks dont.
   
-> <cite><a href="http://www.brainyquote.com/quotes/quotes/m/marktwain163473.html">Mark Twain</a></cite>
+> <cite><a>Douglas Adams</a></cite>
