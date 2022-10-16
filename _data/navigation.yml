@@ -1,7 +1,7 @@
 main:
+  - title: "Home"
+    url: /home/
   - title: "About"
     url: /about/
-  - title: "Posts"
-    url: /posts/
-  - title: "Coffee"
+  - title: "Fun"
     url: /splash-page/
