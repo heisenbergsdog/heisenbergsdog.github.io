@@ -8,7 +8,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/galaxyDrawing.png
   actions:
-excerpt: "My name's Batia (rhymes with \"gotcha\"), and I'm a physics grad student. Please enjoy my website!"
+excerpt: "My name's Batia (rhymes with gotcha), and I'm a physics grad student. Please enjoy my website!"
 
 
 feature_row:
