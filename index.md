@@ -1,4 +1,4 @@
----
+
 title: "Hello!"
 layout: splash
 permalink: /
@@ -12,7 +12,8 @@ excerpt: "My name's Batia (rhymes with \"gotcha\"), and I'm a physics grad stude
 
 
 feature_row:
-  - image_path: /assets/images/chalkboard.png
+  - image_path: /assets/images/self_pic_square.jpg
+    overlay_filter: rgba(205, 239, 154, 0.30)
     title: "Research Interests"
     excerpt: "<ul><li>AdS/CFT</li><li>Black Hole Information</li><li>Holography</li><li>Quantum Information</li></ul>"
 ---
