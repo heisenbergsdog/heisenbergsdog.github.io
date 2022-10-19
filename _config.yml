@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: ""
+title: Batia Friedman-Shaw
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -94,7 +94,7 @@ defaults:
       type: pages #posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       #read_time: true
       #comments: true
       #share: true
@@ -105,7 +105,7 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
 
 category_archive:
   type: liquid
