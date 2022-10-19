@@ -12,7 +12,6 @@ header:
     - label: "arXiv"
 excerpt: "Hello world! My name's Batia (rhymes with "Gotcha") and I'm a physics grad student. Please enjoy my website!"
 
-
 feature_row:
   - image_path: /assets/images/galaxyDrawing.png
     title: "Galaxy"
