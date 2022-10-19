@@ -32,28 +32,15 @@ feature_row:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-    
-feature_row_left:
-  - image_path: /assets/images/galaxyDrawing.png
-    title: "Left aligned placeholder 1"
-    excerpt: "Left-aligned image"
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-    
-feature_row_right:
-  - image_path: /assets/images/chalkboard.png
-    title: "Placeholder 1"
-    excerpt: "Right-aligned image"
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
 ---
+
+# Research Interests
+- AdS/CFT
+- Black Hole Information
+- Holography
+- Quantum Information
+
 
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
-
-{% include feature_row id="feature_row_left" type="left" %}
-
-{% include feature_row id="feature_row_right" type="right" %}
