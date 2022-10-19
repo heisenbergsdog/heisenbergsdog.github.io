@@ -12,7 +12,7 @@ excerpt: "My name's Batia (rhymes with gotcha), and I'm a physics grad student. 
 
 
 feature_row_left:
-  - image_path: /assets/images/self-pic-square.jpg
+  - image_path: /assets/images/self_pic_square.jpg
     title: "Left aligned placeholder 1"
     excerpt: "Research Interests"
 ---
