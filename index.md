@@ -13,9 +13,8 @@ excerpt: "Hello world! My name's Batia (rhymes with gotcha), and I'm a physics g
 
 feature_row_left:
   - image_path: /assets/images/self_pic_square.jpg
-    title: "Left aligned placeholder 1"
+    title: "Research Interests"
     excerpt: "
-Research Interests
 - AdS/CFT
 - Black Hole Information
 - Holography
