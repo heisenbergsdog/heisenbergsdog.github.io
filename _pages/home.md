@@ -10,7 +10,8 @@ header:
     - label: "Curriculum Vitae"
       url: "#test-link"
     - label: "arXiv"
-excerpt: "Hello world! My name's Batia (rhymes with "Gotcha") and I'm a physics grad student. Please enjoy my website!"
+      url: "#test-link"
+excerpt: "Hello world! My name's Batia (rhymes with gotcha) and I'm a physics grad student. Please enjoy my website!"
 
 feature_row:
   - image_path: /assets/images/galaxyDrawing.png
@@ -56,3 +57,4 @@ feature_row_right:
 {% include feature_row id="feature_row_left" type="left" %}
 
 {% include feature_row id="feature_row_right" type="right" %}
+
