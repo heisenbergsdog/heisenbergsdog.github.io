@@ -13,6 +13,7 @@ excerpt: "My name's Batia (rhymes with \"gotcha\"), and I'm a physics grad stude
 
 feature_row:
   - image_path: /assets/images/self_pic_square.jpg
+    overlay_filter: "0.5"
     title: "Research Interests"
     excerpt: "<ul><li>AdS/CFT</li><li>Black Hole Information</li><li>Holography</li><li>Quantum Information</li></ul>"
 ---
