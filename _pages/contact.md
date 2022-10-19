@@ -1,9 +1,8 @@
 ---
 permalink: /contact/
-title: "Conact"
+title: "Conact Information"
 ---
 
-# Contact Information
 ## Email:
 batia.friedmanshaw@gmail.com
 bfriedmanshaw@perimeterinstitute.ca
