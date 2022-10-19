@@ -3,7 +3,7 @@ main:
     url: /
   - title: "About"
     url: /about/
-  - title: "Fun"
-    url: /splash-page/
   - title: "Contact"
     url: /contact/
+  - title: "Fun"
+    url: /splash-page/
