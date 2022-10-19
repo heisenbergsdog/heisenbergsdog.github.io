@@ -12,10 +12,9 @@ excerpt: "My name's Batia (rhymes with \"gotcha\"), and I'm a physics grad stude
 
 
 feature_row:
-  - image_path: /assets/images/self_pic_square.jpg
-    overlay_filter: "0.5"
+  - image_path: /assets/images/perimeter_photo.jpg
     title: "Research Interests"
     excerpt: "<ul><li>AdS/CFT</li><li>Black Hole Information</li><li>Holography</li><li>Quantum Information</li></ul>"
 ---
 
-{% include feature_row id="feature_row" type="left" %}
+{% include feature_row id="feature_row" type="right" %}
