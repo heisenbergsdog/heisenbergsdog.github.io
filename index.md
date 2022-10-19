@@ -11,7 +11,10 @@ header:
 excerpt: "My name's Batia (rhymes with gotcha), and I'm a physics grad student. Please enjoy my website!"
 ---
 
-# Research Interests
+<span style="font-weight:700;font-size:20px"> 
+Research Interests
+</span>
+
 - AdS/CFT
 - Black Hole Information
 - Holography
