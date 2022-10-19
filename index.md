@@ -9,6 +9,12 @@ header:
   overlay_image: /assets/images/galaxyDrawing.png
   actions:
 excerpt: "My name's Batia (rhymes with gotcha), and I'm a physics grad student. Please enjoy my website!"
+
+
+feature_row_left:
+  - image_path: /assets/images/bio-photo.jpg
+    title: "Left aligned placeholder 1"
+    excerpt: "Research Interests"
 ---
 
 <span style="font-weight:700;font-size:20px"> 
@@ -20,8 +26,4 @@ Research Interests
 - Holography
 - Quantum Information
 
-
-feature_row_left:
-  - image_path: /assets/images/bio-photo.jpg
-    title: "Left aligned placeholder 1"
-    excerpt: "Research Interests"
+{% include feature_row id="feature_row_left" type="left" %}
