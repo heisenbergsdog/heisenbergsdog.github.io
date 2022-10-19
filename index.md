@@ -11,10 +11,10 @@ header:
 excerpt: "My name's Batia (rhymes with gotcha), and I'm a physics grad student. Please enjoy my website!"
 
 
-feature_row_left:
-  - image_path: /assets/images/self_pic_square.jpg
+feature_row:
+  - image_path: /assets/images/chalkboard.png
     title: "Research Interests"
     excerpt: "<ul><li>AdS/CFT</li><li>Black Hole Information</li><li>Holography</li><li>Quantum Information</li></ul>"
 ---
 
-{% include feature_row id="feature_row_left" type="left" %}
+{% include feature_row id="feature_row" type="center" %}
