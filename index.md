@@ -14,11 +14,7 @@ excerpt: "My name's Batia (rhymes with gotcha), and I'm a physics grad student. 
 feature_row_left:
   - image_path: /assets/images/self_pic_square.jpg
     title: "Research Interests"
-    excerpt: "
-- AdS/CFT
-- Black Hole Information
-- Holography
-- Quantum Information"
+    excerpt: "<ul><li>AdS/CFT</li><li>Black Hole Information</li><li>Holography</li><li>Quantum Information</li></ul>"
 ---
 
 {% include feature_row id="feature_row_left" type="left" %}
