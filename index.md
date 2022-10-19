@@ -17,4 +17,4 @@ feature_row:
     excerpt: "<ul><li>AdS/CFT</li><li>Black Hole Information</li><li>Holography</li><li>Quantum Information</li></ul>"
 ---
 
-{% include feature_row id="feature_row" %}
+{% include feature_row id="feature_row" type= left%}
