@@ -19,3 +19,9 @@ Research Interests
 - Black Hole Information
 - Holography
 - Quantum Information
+
+
+feature_row_left:
+  - image_path: /assets/images/bio-photo.jpg
+    title: "Left aligned placeholder 1"
+    excerpt: "Research Interests"
