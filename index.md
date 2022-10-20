@@ -15,11 +15,8 @@ feature_row:
   - image_path: /assets/images/perimeter_photo.jpg
     title: "Research Interests"
     excerpt:"AdS/CFT
-    
     Black Hole Information
-    
     Holography
-    
     Quantum Information"
 ---
 
