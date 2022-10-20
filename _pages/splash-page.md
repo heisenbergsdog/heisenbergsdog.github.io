@@ -11,9 +11,9 @@ excerpt: "This is the fun, \"less-professional\" side of my website, and whilst 
 
 [Joke Repository](/jokes)
 
-**Riddle Repository**
+[Riddle Repository](/riddles)
 
-**Favorite Hitchhiker's Guide Quotes**
+[Favorite Hitchhiker's Guide Quotes](/hhgquotes)
 
 **Link to Spotify**
 
