@@ -11,7 +11,7 @@ excerpt: "My name's Batia (rhymes with \"gotcha\"), and I'm a physics grad stude
 feature_row:
   - image_path: /assets/images/perimeter_photo.jpg
     title: "Research Insterests"
-    excerpt: "<ul"><li>AdS/CFT</li><li>Black Hole Information</li><li>Holography</li><li>Quantum Information</li></ul>"
+    excerpt: "<ul style='list-style: none;'><li>AdS/CFT</li><li>Black Hole Information</li><li>Holography</li><li>Quantum Information</li></ul>"
     
 ---
 
