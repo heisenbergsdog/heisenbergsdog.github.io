@@ -9,11 +9,11 @@ header:
 excerpt: "This is the fun, \"less-professional\" side of my website, and whilst it's still under construction, it brings me great joy. Go forth and explore (in a few weeks or so)!"
 ---
 
-[Joke Repository](/_pages/jokes)
+[Joke Repository](/_pages/jokes.md)
 
-[Riddle Repository](/_pages/riddles)
+[Riddle Repository](/_pages/riddles.md)
 
-[Favorite Hitchhiker's Guide Quotes](/hhgquotes)
+[Favorite Hitchhiker's Guide Quotes](/_pages/hhgquotes.md)
 
 **Link to Spotify**
 
