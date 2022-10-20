@@ -11,7 +11,10 @@ excerpt: "My name's Batia (rhymes with \"gotcha\"), and I'm a physics grad stude
 feature_row:
   - image_path: /assets/images/perimeter_photo.jpg
     title: "Research Insterests"
-    excerpt: "AdS/CFT, Black Hole Information, Holography, Quantum Information"
+    excerpt: "AdS/CFT
+    Black Hole Information
+    Holography
+    Quantum Information"
 ---
 
 {% include feature_row id="feature_row" type="right" %}
