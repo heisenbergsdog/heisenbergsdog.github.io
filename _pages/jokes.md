@@ -5,7 +5,7 @@ permalink: /jokes/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/clouds.jpg
+  overlay_image: /assets/images/clouds2.jpg
 ---
 # Anti-anti-anti(-anti??) Joke (written by me)
 - will copy and paste this from my documents soon
