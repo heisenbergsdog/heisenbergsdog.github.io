@@ -5,7 +5,7 @@ permalink: /jokes/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/clouds2.jpg
+  overlay_image: /assets/images/clouds2.jpg.jpg
 ---
 
 # Heisenberg, Schrodinger, Ohm, Pascal (compiled from various sources)
