@@ -1,6 +1,11 @@
 ---
 title: "Joke Repository"
+layout: splash
 permalink: /jokes/
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/clouds.jpg
 ---
 # Anti-anti-anti(-anti??) Joke (written by me)
 - will copy and paste this from my documents soon
