@@ -53,7 +53,7 @@ Anyway, Heisenberg and Scrodinger, being fakers themselves, drive off into the s
 	
 
 
-# Cheerio Joke
+# Cheerio Joke (told by my cousin Samuel during passover one year ~2008)
 One day there was a little plain cheerio eating breakfast (which, by the way, was not cheerios) in his little cheerio world. He was also reading the newspaper and happened to come accross an ad to become a frosted cheerio. "Frosted cheerio!" he thought, "wow! Frosted cheerios are much better than plain cheerios!." So he followed the instructions, flew to a little island with a cheerio factory, got turned into a frosted cheerio, and flew back home.  
 About two weeks later, he was sitting at home eating breakfast (which, by the way, was not cheerios) in his little cheerio world. He was also reading the newspaper and happened to come accross and ad to become a chocolate cheerio. "Chocolate cheerio!" he thought, "wow! Chocolate cheerios are much better than frosted cheerios!" So he followed the instructions, flew to the little island with the cheerio factory, got turned into a chocolate cheerio, and flew back home.  
 About two weeks later, he was sitting at home eating breakfast (which, by the way, was not cheerios) in his little cheerio world. He was also reading the newspaper and happened to come accross and ad to become a honey nut cheerio. "Honey nut cheerios!" he thought, "wow! Honey nut cheerios are much better than chocolate cheerios!" So he follwoed the instructions, flew to the little island with the cheerio factory, got turned into a honey nut cheerio, and decided, "hmmm I like this island! Might as well stay."  
