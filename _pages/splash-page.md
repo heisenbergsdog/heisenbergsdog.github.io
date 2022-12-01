@@ -13,7 +13,7 @@ excerpt: "This is the fun, \"less-professional\" side of my website, and whilst 
 
 [Riddle Repository](/riddles.md)
 
-[Favorite Hitchhiker's Guide Quotes](/hhgquotes.md)
+[Favorite Hitchhiker's Guide Quotes](/quotes.md)
 
 **Link to Spotify**
 
