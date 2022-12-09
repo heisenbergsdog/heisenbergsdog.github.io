@@ -11,12 +11,12 @@ This is the fun, \"less-professional\" side of my website, and whilst it's still
 
 [Joke Repository](/jokes/)
 
-[Riddle Repository](/riddles.md)
+[Riddle Repository](/riddles.md) (under construction)
 
 [Favorite Hitchhiker's Guide Quotes](/quotes.md)
 
-**Link to Spotify**
+**Link to Spotify** (under construction)
 
-**Physics songs(?)**
+**Physics songs(?)** (under construction)
 
-**Links to wacky/interesting papers**
+**Links to wacky/interesting papers** (under construction)
