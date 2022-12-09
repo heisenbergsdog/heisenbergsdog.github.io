@@ -4,8 +4,8 @@ layout: splash
 permalink: /jokes/
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
   overlay_image: /assets/images/clouds2.jpg.jpg
+  text_color: rgb(63,0,189)
 ---
 
 # Heisenberg, Schrodinger, Ohm, Pascal (compiled from various sources)
