@@ -11,7 +11,7 @@ This is the fun, \"less-professional\" side of my website, and whilst it's still
 
 [Joke Repository](/jokes/)
 
-[Riddle Repository](/riddles.md) (under construction)
+[Riddle Repository](/riddles.md)
 
 [Favorite Hitchhiker's Guide Quotes](/quotes.md)
 
