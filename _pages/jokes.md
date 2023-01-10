@@ -61,4 +61,14 @@ On the island, there was a milk bowl. "Wow," he said, "if I could get into a mil
 So he finally decided to go stand in the punch line.   
 But there was no punch line.
 
+# Short jokes that I have heard and forgotten the sources 
+
+Two muffins are in an oven. One turns to the other and says, "It's hot in here." The other says, " AH! A talking muffin!"   
+
+One atom says to another, "I think I lost an electron." The other one says, "You sure?" And the first responds,"Yeah! I'm positive!"   
+
+Two hats are on a hat rack. One says to the other, "You stay here, I'll go on ahead!"
+
+Two fish swim into a concrete wall. One turns to the other and says, "dam!"
+
 # More to come!!
