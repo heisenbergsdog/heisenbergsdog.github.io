@@ -11,3 +11,4 @@ header:
 1. His horse is named Friday.
 2. Look around, see what you saw. Take the saw, cut the table in half. Put two halves together to make a whole. Put the hole on the wall and escape.
 3. Turn on one switch and leave it on for ten minutes. This will make one of the bulbs hot. Turn off that switch and turn on another one. Immediately go upstairs. The cold bulb that is turned off is controlled by the switch you did not flip at all. The hot bulb that is turned off is controlled by the switch you turned on and then back off. Lastly, the bulb that is on is controlled by the switch you flipped last.
+4. (From the Hobbit) Teeth.
