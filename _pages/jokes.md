@@ -71,4 +71,7 @@ Two hats are on a hat rack. One says to the other, "You stay here, I'll go on ah
 
 Two fish swim into a concrete wall. One turns to the other and says, "dam!"
 
+# A terrible joke by GPT-3
+Why was the leashed dog sitting down? Because it was tied to a pole.
+
 # More to come!!
