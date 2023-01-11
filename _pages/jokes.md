@@ -74,4 +74,10 @@ Two fish swim into a concrete wall. One turns to the other and says, "dam!"
 # A terrible joke by GPT-3
 Why was the leashed dog sitting down? Because it was tied to a pole.
 
+# A slightly better joke by GPT-3
+Why was the math textbook sad? It had a lot of problems.
+
+# Joke made up by Mary Letey and Katherine Slattery
+What do you call a singularity from Eastern Europe? A pole.
+
 # More to come!!
