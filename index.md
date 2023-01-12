@@ -19,9 +19,9 @@ feature_row:
 
 # Past and Ongoing Research Projects
 
-**Quantum Tasks/Connected Enganglement Wedges with a Black Hole**
-*Advisor: Dr. Robert Myers*
-*Co-advisor: Dr. Olga Papadoulaki*
+**Quantum Tasks/Connected Enganglement Wedges with a Black Hole**   
+*Advisor: Dr. Robert Myers*   
+*Co-advisor: Dr. Olga Papadoulaki*   
 Placing a black hole in the bulk of AdS and examining how this impacts connected entanglement wedges
 and scattering in the bulk. (2022 - Present)
 
