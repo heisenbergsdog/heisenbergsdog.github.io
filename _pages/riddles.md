@@ -14,6 +14,7 @@ header:
 3. There are three incandescent lightbulbs (initially turned off) in a room at the top of a set of stairs. At the bottom of the stairs, there are three light switches that control the three lightbulbs. You do not know which switch controls which lightbulb, but your goal is to find out. There is one constraint: you are only allowed to enter the room once. How do you determine which switch goes to which lightbulb?  
 4. (From the Hobbit) 30 white horses on a red hill. First they champ, then they stamp, and then they stand still. What are they?
 5. (Riddle of the Sphinx from Oedipus Rex) What goes on four legs in the morning, two legs in the afternoon, and three legs in the evening?
+6. (From the Hobbit) Alive without breath, as cold as death; Never thirsty, ever drinking, all in mail never clinking. What is it?
 
 
 More riddles to come!
