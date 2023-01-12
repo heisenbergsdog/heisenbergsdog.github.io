@@ -5,7 +5,7 @@ permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/galaxyDrawing.png
+  overlay_image: /assets/images/clouds.jpg
 excerpt: "My name's Batia (rhymes with \"gotcha\"), and I'm a physics grad student. Please enjoy my website!"
 
 feature_row:
