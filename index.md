@@ -11,13 +11,19 @@ excerpt: "My name's Batia (rhymes with \"gotcha\"), and I'm a physics grad stude
 feature_row:
   - image_path: /assets/images/perimeter_photo.jpg
     title: "Research Insterests"
-    excerpt: "<ul style='list-style: none;'><li>AdS/CFT</li><li>Black Hole Information</li><li>Holography</li><li>Quantum Information</li></ul>"
+    excerpt: "<ul style='list-style: none;'><li>AdS/CFT</li><li>Black Hole Information</li><li>Holography</li><li>Quantum Information</li><li>Cosmology</li></ul>"
     
 ---
 
 {% include feature_row id="feature_row" type="right" %}
 
 # Past and Ongoing Research Projects
+
+**Quantum Tasks/Connected Enganglement Wedges with a Black Hole**
+*Advisor: Dr. Robert Myers*
+*Co-advisor: Dr. Olga Papadoulaki*
+Placing a black hole in the bulk of AdS and examining how this impacts connected entanglement wedges
+and scattering in the bulk. (2022 - Present)
 
 **Dark Energy Quintessence Research**      
 *Collaborator: Dr. Morgane Konig*    
