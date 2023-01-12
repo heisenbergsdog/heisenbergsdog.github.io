@@ -16,6 +16,7 @@ header:
 5. (Riddle of the Sphinx from Oedipus Rex) What goes on four legs in the morning, two legs in the afternoon, and three legs in the evening?
 6. (From the Hobbit) Alive without breath, as cold as death; Never thirsty, ever drinking, all in mail never clinking. What is it?
 7. (From the Hobbit) What has roots as nobody sees, is taller than trees, up, up, up it goes, and yet, never grows?
+8. What has roads but no cars, forests but no trees, and cities but no houses?
 
 
 More riddles to come!
