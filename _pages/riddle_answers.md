@@ -16,3 +16,4 @@ header:
 6. Fish.
 7. A mountain.
 8. A map!
+9. Light two ends of one rope on fire and light one end of the second rope on fire. Then, when the first rope burns away completely, you know that a half hour has passed. Exactly when this happens, light the second end of the second rope on fire. From the time that you light the second end of the second rope to the time that it burns away is exactly fifteen minutes.
