@@ -15,6 +15,7 @@ header:
 4. (From the Hobbit) 30 white horses on a red hill. First they champ, then they stamp, and then they stand still. What are they?
 5. (Riddle of the Sphinx from Oedipus Rex) What goes on four legs in the morning, two legs in the afternoon, and three legs in the evening?
 6. (From the Hobbit) Alive without breath, as cold as death; Never thirsty, ever drinking, all in mail never clinking. What is it?
+7. (From the Hobbit) What has roots as nobody sees, is taller than trees, up, up, up it goes, and yet, never grows?
 
 
 More riddles to come!
