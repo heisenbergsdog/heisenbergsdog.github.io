@@ -17,6 +17,7 @@ header:
 6. (From the Hobbit) Alive without breath, as cold as death; Never thirsty, ever drinking, all in mail never clinking. What is it?
 7. (From the Hobbit) What has roots as nobody sees, is taller than trees, up, up, up it goes, and yet, never grows?
 8. What has roads but no cars, forests but no trees, and cities but no houses?
+9. (A riddle from a friend back in Providence) You have two ropes of differing lengths and a lighter. The ropes each have a different non-constant thickness. Additionally, each rope takes exactly one hour to burn. How do you measure fifteen minutes with the ropes and the lighter?
 
 
 More riddles to come!
