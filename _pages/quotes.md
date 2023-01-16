@@ -22,6 +22,9 @@ During a recitation by their Poet Master Grunthos the Flatulent of his poem "Ode
 The very worst poetry of all perished along with its creator, Paula Nancy Millstone Jennings of Greenberg, Essex, England, in the destruction of planet Earth.   
 
 
+"You know," said Arthur, "it's at times like this, when I'm trapped in a Vogon airlock with a man from Betelgeuse, and about to die of asphyxiation in deep space, that I really wish I'd listened to what my mother told me when I was young."  
+"Why, what did she tell you?"
+"I don't know, I didn't listen."
 
 
 
