@@ -26,6 +26,8 @@ The very worst poetry of all perished along with its creator, Paula Nancy Millst
 "Why, what did she tell you?"
 "I don't know, I didn't listen."
 
+The Hitchhiker's Guide to the Galaxy says that if you hold a lungful of air you can survive in the total vacuum of space for about thirty seconds. However, it does go on to say that what with space being the mind-boggling size it is the chances of getting picked up by another ship within those thirty seconds are two to the power of two hundred and seventy-six thousand, seven hundred and nine to one against. By a totally staggering coincidence, that is also the telephone number of an Islington flat where Arthur once went to a very good party and met a very nice girl whom he totally failed to get off with -- she went off with a gate-crasher.
+
 
 
 # Have a lot more quotes to post here. Will post them when I have the time to sit down with my copy of Hitchhiker's Guide and type up all of the highlighted quotes.
