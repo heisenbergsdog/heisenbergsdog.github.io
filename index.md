@@ -6,6 +6,7 @@ header:
   overlay_color: "#000"
   overlay_image: /assets/images/clouds.jpg
   text_color: rgb(63,0,189)
+  text_shadow: true
 excerpt: "My name's Batia (rhymes with \"gotcha\"), and I'm a physics grad student. Please enjoy my website!"
 
 feature_row:
