@@ -7,4 +7,9 @@
       color: {{page.header.text_color}} !important;
     }
   {% endif %}
+  {% if page.text_shadow == true %}
+  <h1>Header with text shadow</h1>
+{% else %}
+  <h1>Header without text shadow</h1>
+{% endif %}
 </style>
