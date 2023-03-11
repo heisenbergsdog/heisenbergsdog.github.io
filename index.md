@@ -12,18 +12,22 @@ excerpt: "My name's Batia (rhymes with \"gotcha\"), and I'm a physics grad stude
 feature_row:
   - image_path: /assets/images/perimeter_photo.jpg
     title: "Research Insterests"
-    excerpt: "<ul style='list-style: none;'><li>AdS/CFT</li><li>Black Hole Information</li><li>Holography</li><li>Quantum Information</li><li>Cosmology</li></ul>"
+    excerpt: "<ul style='list-style: none;'><li>Cosmology</li><li>Dark Energy</li><li>Dark Matter</li><li>Large Scale Structure</li><li>Early Universe</li><li>Galaxy Survey Data Analysis</li></ul>"
     
 ---
 
 {% include feature_row id="feature_row" type="right" %}
 
-# Past and Ongoing Research Projects
+# Past and Ongoing Research Projects   
+**Impact of Peculiar Velocities on Galaxy Survey Cuts**   
+*Advisor: Dr. Niayesh Afshordi*   
+*Co-advisor: Dr. Alex Krolewski*   
+Determining how sizeable of an effect galaxy peculiar velocities makes on the number density of Emission Line Galaxies, and connecting this outcome to cosmological observables. (2023 - Present)       
 
 **Quantum Tasks/Connected Enganglement Wedges with a Black Hole**   
 *Advisor: Dr. Robert Myers*   
 *Co-advisor: Dr. Olga Papadoulaki*   
-Placing a black hole in the bulk of AdS and examining how this impacts connected entanglement wedges
+Placing a black hole in the bulk of AdS and examining how this impacts connected entanglement wedges on the boundary
 and scattering in the bulk. (2022 - Present)
 
 **Dark Energy Quintessence Research**      
