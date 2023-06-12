@@ -4,7 +4,7 @@ title: "Conact Information"
 ---
 
 ## Email:
-batia.friedmanshaw@gmail.com
+batia.friedmanshaw@gmail.com   
 bfriedmanshaw@perimeterinstitute.ca
 
 ## Phone:
