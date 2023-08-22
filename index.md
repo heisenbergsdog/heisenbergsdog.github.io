@@ -7,10 +7,6 @@ header:
   overlay_image: /assets/images/galaxyDrawing.png
   text_color: rgb(252,174,208)
   text_shadow: true
-excerpt: "My name's Batia \
-(rhymes with \"gotcha\"), \
-and I'm a physics grad student. \
-Please enjoy my website!"
 
 feature_row:
   - image_path: /assets/images/perimeter_photo.jpg
@@ -18,6 +14,10 @@ feature_row:
     excerpt: "<ul style='list-style: none;'><li>Cosmology</li><li>Dark Energy</li><li>Dark Matter</li><li>Large Scale Structure</li><li>Early Universe</li><li>Galaxy Survey Data Analysis</li></ul>"
     
 ---
+
+My name's Batia (rhymes with \"gotcha\"),   
+and I'm a physics grad student.   
+Please enjoy my website!   
 
 {% include feature_row id="feature_row" type="right" %}
 
