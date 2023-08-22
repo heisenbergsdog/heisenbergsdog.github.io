@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/images/galaxyDrawing.png
   text_color: rgb(252,174,208)
   text_shadow: true
-  excerpt: >
+  excerpt: |
     My name's Batia   
     (rhymes with \"gotcha\"),   
     and I'm a physics grad student.   
