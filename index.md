@@ -5,9 +5,12 @@ permalink: /
 header:
   overlay_color: "#000"
   overlay_image: /assets/images/galaxyDrawing.png
-  text_color: rgb(63,0,189)
+  text_color: rgb(252,174,208)
   text_shadow: true
-excerpt: "My name's Batia (rhymes with \"gotcha\"), and I'm a physics grad student. Please enjoy my website!"
+excerpt: "My name's Batia"
+excerpt: "(rhymes with \"gotcha\"),"
+excerpt: "and I'm a physics grad student."
+excerpt: "Please enjoy my website!"
 
 feature_row:
   - image_path: /assets/images/perimeter_photo.jpg
