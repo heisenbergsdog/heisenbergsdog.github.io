@@ -9,18 +9,21 @@ header:
 
 feature_row_1:
   - image_path: /assets/images/hang.jpg
+    class: "custom-image"
   - image_path: /assets/images/tuck.jpg
+    class: "custom-image"
 
 feature_row_2:
   - image_path: /assets/images/one_arm.jpg
+    class: "custom-image"
   - image_path: /assets/images/hand_stand.jpg
+    class: "custom-image"
 --- 
 
 
 # Calisthenics Pics
 
 {% include feature_row id="feature_row_1" type="middle" %}
-
 
 {% include feature_row id="feature_row_2" type="middle" %}
 
