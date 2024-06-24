@@ -14,3 +14,5 @@ This is the fun, \"less-professional\" side of my website, and whilst it's still
 [Riddle Repository](/riddles.md)
 
 [Favorite Hitchhiker's Guide Quotes](/quotes.md)
+
+[Calisthenics](/calisthenics/)
