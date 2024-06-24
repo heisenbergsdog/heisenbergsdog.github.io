@@ -117,4 +117,4 @@ tag_archive:
 
 sass:
   load_paths:
-    - sass
+    - _sass
