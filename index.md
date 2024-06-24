@@ -41,6 +41,7 @@ Determining how sizeable of an effect galaxy peculiar velocities makes on the nu
 *Co-advisor: Dr. Olga Papadoulaki*   
 Placing a black hole in the bulk of AdS and examining how this impacts connected entanglement wedges on the boundary
 and scattering in the bulk. (2022 - 2023)
+[Holographic scattering and non-minimal RT surfaces](https://arxiv.org/abs/2404.15400)
 
 **Dark Energy Quintessence Research**      
 *Collaborator: Dr. Morgane Konig*    
@@ -57,6 +58,7 @@ methods more rigorously. (2020 - 2022)
 *Collaborators: Michael Toomey, Sarah Bawabe*  
 Developed a primer on machine learning to help researchers apply ML in all fields of
 physical science. (2020 - 2021)
+[The Physics of Machine Learning: An Intuitive Introduction for the Physical Scientist](https://arxiv.org/abs/2112.00851)
 
 **Quantum Chemistry Computation**   
 *Advisor: Professor Brenda Rubenstein*  
