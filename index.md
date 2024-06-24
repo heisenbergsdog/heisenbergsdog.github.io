@@ -13,7 +13,7 @@ header:
 feature_row:
   - image_path: /assets/images/perimeter_photo.jpg
     title: "Research Insterests"
-    excerpt: "<ul style='list-style: none;'><li>Cosmology</li><li>Dark Energy</li><li>Dark Matter</li><li>Large Scale Structure</li><li>Early Universe</li><li>Galaxy Survey Data Analysis</li></ul>"
+    excerpt: "<ul style='list-style: none;'><li>Cosmology</li><li>Dark Energy</li><li>Dark Matter</li><li>Vacuum Decay</li><li>Early Universe</li><li>Quantum Information</li></ul>"
     
 --- 
 
