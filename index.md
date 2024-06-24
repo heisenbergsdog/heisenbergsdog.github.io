@@ -4,8 +4,8 @@ layout: splash
 permalink: /
 header:
   overlay_color: "#000"
-  overlay_image: /assets/images/galaxyDrawing.png
-  text_color: rgb(252,174,208)
+  overlay_image: /assets/images/clouds.jpg
+  text_color: rgb(63,0,189)
   text_shadow: true
   excerpt: "<ul style='list-style: none;'><li>My name's Batia</li><li>(rhymes with \"gotcha\"),</li><li>and I'm a physics grad student.</li><li>Please enjoy my website!</li></ul>"
 
