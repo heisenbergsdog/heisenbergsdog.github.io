@@ -19,19 +19,19 @@ feature_row:
 
 {% include feature_row id="feature_row" type="right" %}
 
-# Past and Ongoing Research Projects 
-**Inside Vacuum Decay**
-*Advisors: Dr. Katie Mack and Dr. Matthew Johnson*
-Calculating observables in a Universe where the Milky Way is in a sub-horizon scale vacuum bubble. (2024 - Present)
+# Past and Ongoing Research Projects    
+**Inside Vacuum Decay**   
+*Advisors: Dr. Katie Mack and Dr. Matthew Johnson*     
+Calculating observables in a Universe where the Milky Way is in a sub-horizon scale vacuum bubble. (2024 - Present)    
 
 
-**DESI BAO Fit Testing**
-*Advisor: Dr. Will Percival*
-*Co-advisor: Dr. Alex Krolewski*
+**DESI BAO Fit Testing**   
+*Advisor: Dr. Will Percival*    
+*Co-advisor: Dr. Alex Krolewski*   
 Testing the Dark Energy Spectroscopic Instrument (DESI) Baryon Acoustic Oscillation (BAO) fitting pipeline on a range of cosmological simulations that include varied \w_0, \w_a parameters. (2023 - 2024)
 
 
-**Impact of Peculiar Velocities on Galaxy Survey Cuts**   
+**Impact of Peculiar Velocities on Galaxy Survey Cuts**      
 *Advisor: Dr. Niayesh Afshordi*   
 *Co-advisor: Dr. Alex Krolewski*   
 Determining how sizeable of an effect galaxy peculiar velocities makes on the number density of Emission Line Galaxies, and connecting this outcome to cosmological observables. (2023 - 2024)       
