@@ -45,7 +45,7 @@ and scattering in the bulk. (2022 - 2023)
 **Dark Energy Quintessence Research**      
 *Collaborator: Dr. Morgane Konig*    
 Examining whether a newly proposed model of dark matter and dark energy fits with well-established
-cosmology. (2020 - Present)
+cosmology. (2020 - 2022)
 
 **Deeper Dive into Qunatum Field Theory Renormalization**   
 *Advisor: Professor Jeremy Kahn*   
