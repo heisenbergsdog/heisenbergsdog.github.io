@@ -9,14 +9,10 @@ header:
 
 feature_row_1:
   - image_path: /assets/images/hang.jpg
-
-feature_row_2:
   - image_path: /assets/images/tuck.jpg
 
-feature_row_3:
+feature_row_2:
   - image_path: /assets/images/one_arm.jpg
-
-feature_row_4:
   - image_path: /assets/images/hand_stand.jpg
 --- 
 
@@ -27,12 +23,6 @@ feature_row_4:
 
 
 {% include feature_row id="feature_row_2" type="middle" %}
-
-
-{% include feature_row id="feature_row_3" type="middle" %}
-
-
-{% include feature_row id="feature_row_4" type="middle" %}
 
 
 
