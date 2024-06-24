@@ -19,17 +19,28 @@ feature_row:
 
 {% include feature_row id="feature_row" type="right" %}
 
-# Past and Ongoing Research Projects   
+# Past and Ongoing Research Projects 
+**Inside Vacuum Decay**
+*Advisors: Dr. Katie Mack and Dr. Matthew Johnson*
+Calculating observables in a Universe where the Milky Way is in a sub-horizon scale vacuum bubble. (2024 - Present)
+
+
+**DESI BAO Fit Testing**
+*Advisor: Dr. Will Percival*
+*Co-advisor: Dr. Alex Krolewski*
+Testing the Dark Energy Spectroscopic Instrument (DESI) Baryon Acoustic Oscillation (BAO) fitting pipeline on a range of cosmological simulations that include varied \w_0, \w_a parameters. (2023 - 2024)
+
+
 **Impact of Peculiar Velocities on Galaxy Survey Cuts**   
 *Advisor: Dr. Niayesh Afshordi*   
 *Co-advisor: Dr. Alex Krolewski*   
-Determining how sizeable of an effect galaxy peculiar velocities makes on the number density of Emission Line Galaxies, and connecting this outcome to cosmological observables. (2023 - Present)       
+Determining how sizeable of an effect galaxy peculiar velocities makes on the number density of Emission Line Galaxies, and connecting this outcome to cosmological observables. (2023 - 2024)       
 
 **Quantum Tasks/Connected Enganglement Wedges with a Black Hole**   
 *Advisor: Dr. Robert Myers*   
 *Co-advisor: Dr. Olga Papadoulaki*   
 Placing a black hole in the bulk of AdS and examining how this impacts connected entanglement wedges on the boundary
-and scattering in the bulk. (2022 - Present)
+and scattering in the bulk. (2022 - 2023)
 
 **Dark Energy Quintessence Research**      
 *Collaborator: Dr. Morgane Konig*    
@@ -50,4 +61,4 @@ physical science. (2020 - 2021)
 **Quantum Chemistry Computation**   
 *Advisor: Professor Brenda Rubenstein*  
 Developed software used to determine Hamiltonians and their approximate
-associated energy for arbitrary 2D Ising models. (2019-2020)
+associated energy for arbitrary 2D Ising models. (2019 - 2020)
