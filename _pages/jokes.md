@@ -80,4 +80,7 @@ Why was the math textbook sad? It had a lot of problems.
 # Joke made up by Mary Letey and Katherine Slattery
 What do you call a singularity from Eastern Europe? A pole.
 
+# Joke made up by Katherine Slattery   
+Why do wave functions make bad presidents? Because their states always collapse.
+
 # More to come!!
