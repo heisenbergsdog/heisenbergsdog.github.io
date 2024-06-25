@@ -1,0 +1,18 @@
+h1, h2, h3, h4, h5, h6 {
+  @if $text_shadow == true {
+    text-shadow: 4px 4px #FFFFFF;
+  }
+}
+
+
+/* _sass/custom.scss */
+
+.custom-image {
+  width: 45%; /* Adjust the width as needed */
+  margin: 2.5%; /* Center the images and add some space between them */
+  display: inline-block;
+}
+
+.feature-row {
+  text-align: center; /* Center the images horizontally */
+}
