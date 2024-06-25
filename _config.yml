@@ -56,6 +56,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-algolia
 
 author:
   name   : "Batia Friedman-Shaw"
@@ -113,8 +114,3 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-
-
-sass:
-  load_paths:
-    - _sass
