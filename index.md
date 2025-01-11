@@ -34,7 +34,7 @@ Testing the Dark Energy Spectroscopic Instrument (DESI) Baryon Acoustic Oscillat
 **Impact of Peculiar Velocities on Galaxy Survey Cuts**      
 *Advisor: Dr. Niayesh Afshordi*   
 *Co-advisor: Dr. Alex Krolewski*   
-Determining how sizeable of an effect galaxy peculiar velocities makes on the number density of Emission Line Galaxies, and connecting this outcome to cosmological observables. (2023 - 2024)
+Determining how sizeable of an effect galaxy peculiar velocities makes on the number density of Emission Line Galaxies, and connecting this outcome to cosmological observables. (2023 - 2024)   
 [Doppler bias: impact of peculiar velocities on color selection and the large scale structure of galaxy surveys](https://arxiv.org/abs/2410.04705)
 
 **Quantum Tasks/Connected Enganglement Wedges with a Black Hole**   
