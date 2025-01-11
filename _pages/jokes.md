@@ -82,5 +82,18 @@ What do you call a singularity from Eastern Europe? A pole.
 
 # Joke made up by Katherine Slattery   
 Why do wave functions make bad presidents? Because their states always collapse.
+   
+# Joke adapted from Norm Macdonald
+A man walks into a bar and sees a guy with a pumpkin head. The man says, "what happened to you?" To which, the pumpkin headed man responds "Oh, let me tell you.
+So I found a lamp and it had a magic genie inside. The genie gave me three wishes. So first, I wished for an unlimited amount of money."   
+"And he tricked you with that or something?" said the man.
+"No," replied the pumpkin headed guy, "it's actually quite wonderful. If I want ten yachts, I can buy them no problem. If I want to fly to Tahiti for a day on a private jet -
+ I can do that too. I own sky scrapers, luxury cars, the finest diamonds in the world."  
+ "So then what happened."
+ "Well then I wished to be able to fly. Not in an airplane, but like superman."  
+ "And he tricked you somehow with that wish?"   
+ "No," replied the pumpkin headed guy, "I can fly wherever I want to. It's amazing! I don't have issues with oxygen, or coldness, or air resistance. I just fly like you would in a dream."  
+ "Okay, okay, I'm glad that worked out. But then tell me, what happened to make your head like that?"   
+ "Oh that? I wished for a pumpkin head."
 
 # More to come!!
