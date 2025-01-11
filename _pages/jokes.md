@@ -94,6 +94,6 @@ So I found a lamp and it had a magic genie inside. The genie gave me three wishe
  "And he tricked you somehow with that wish?"   
  "No," replied the pumpkin headed guy, "I can fly wherever I want to. It's amazing! I don't have issues with oxygen, or coldness, or air resistance. I just fly like you would in a dream."  
  "Okay, okay, I'm glad that worked out. But then tell me, what happened to make your head like that?"   
- "Oh that? I wished for a pumpkin head."
+ "Oh that? That was my last wish. I wished for a pumpkin head."
 
 # More to come!!
