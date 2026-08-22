@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/images/clouds.jpg
   text_color: rgb(63,0,189)
 ---
-## Teaching Philosophy
+## Philosophy
 
 <div class="feature__wrapper">
 
