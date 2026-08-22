@@ -12,17 +12,22 @@ header:
 
 feature_row:
   - image_path: /assets/images/perimeter_photo.jpg
-    title: "Research Insterests"
-    excerpt: "<ul style='list-style: none;'><li>Cosmology</li><li>Dark Energy</li><li>Dark Matter</li><li>Vacuum Decay</li><li>Early Universe</li><li>Quantum Information</li></ul>"
+    title: "Research Interests"
+    excerpt: "<ul style='list-style: none;'><li>Cosmology</li><li>Dark Energy</li><li>Galaxy Surveys</li><li>Vacuum Decay</li></ul>"
     
 --- 
 
 {% include feature_row id="feature_row" type="right" %}
 
-# Past and Ongoing Research Projects    
-**Inside Vacuum Decay**   
+# Past and Ongoing Research Projects 
+**Measuring Galaxy Survey Systematics**
+*Advisors: Dr. Katie Mack and Dr. Matthew Johnson*
+Developing and testing a method of empirically measuring and mapping galaxy survey systematics in a model independent manner. (2026 - Present)
+
+**Dark Energy Decay**   
 *Advisors: Dr. Katie Mack and Dr. Matthew Johnson*     
-Calculating observables in a Universe where the Milky Way is in a sub-horizon scale vacuum bubble. (2024 - Present)    
+Calculating observables in a Universe where the Milky Way is in a sub-horizon scale vacuum bubble. (2024 - 2026)   
+[Dark Energy Bubble as Dynamical Dark Energy: Properties and CMB Constraints](https://arxiv.org/abs/2607.18376)
 
 
 **DESI BAO Fit Testing**   
