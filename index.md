@@ -19,9 +19,9 @@ feature_row:
 
 {% include feature_row id="feature_row" type="right" %}
 
-# Past and Ongoing Research Projects 
-**Measuring Galaxy Survey Systematics**
-*Advisors: Dr. Katie Mack and Dr. Matthew Johnson*
+# Past and Ongoing Research Projects    
+**Measuring Galaxy Survey Systematics**  
+*Advisors: Dr. Katie Mack and Dr. Matthew Johnson*   
 Developing and testing a method of empirically measuring and mapping galaxy survey systematics in a model independent manner. (2026 - Present)
 
 **Dark Energy Decay**   
