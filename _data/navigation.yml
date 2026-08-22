@@ -1,9 +1,9 @@
 main:
-  - title: "Home"
+  - title: "Research"
     url: /
+  - title: "Teaching"
+    url: /teaching/
   - title: "About"
     url: /about/
-  #- title: "Contact"
-  #  url: /contact/
   - title: "Fun"
     url: /splash-page/
