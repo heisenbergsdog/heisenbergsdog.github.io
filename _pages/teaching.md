@@ -7,9 +7,57 @@ header:
   overlay_image: /assets/images/clouds.jpg
   text_color: rgb(63,0,189)
 ---
+## Teaching Philosophy
+
+<div class="feature__wrapper">
+
+  <div class="feature__item">
+    <div class="archive__item">
+      <div class="archive__item-teaser">
+        <img src="/assets/images/teaching-level.png" alt="Illustration representing learning at the right level">
+      </div>
+      <div class="archive__item-body">
+        <h3>Teach the vocab!</h3>
+        <p>
+        Assess the general level of comfort with mathematical topics, jargon, and notation, and start with the basics!
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <div class="feature__item">
+    <div class="archive__item">
+      <div class="archive__item-teaser">
+        <img src="/assets/images/teaching-active.png" alt="Illustration representing active problem solving">
+      </div>
+      <div class="archive__item-body">
+        <h3>Activities!</h3>
+        <p>
+        Students understand far more when they discuss and solve problems
+        themselves. Activity-full lectures for the win!
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <div class="feature__item">
+    <div class="archive__item">
+      <div class="archive__item-teaser">
+        <img src="/assets/images/teaching-repeat.png" alt="Illustration representing repeated practice">
+      </div>
+      <div class="archive__item-body">
+        <h3>Review! Review! Review!</h3>
+        <p>
+        We generally need to see a concept (or new word!) multiple times in different contexts to retain it. Repeating material in slightly varying forms in the lecture, tutorials, and homework, and including review material from prior weeks every now and again help a lot!
+        </p>
+      </div>
+    </div>
+  </div>
+
+</div>
 
 
-# Teaching
+# Experience
 
 I have taught physics and mathematics at the graduate, undergraduate, and secondary-school levels, with experience designing course materials, leading tutorials and problem-solving sessions, holding office hours, and developing interactive lessons.
 
