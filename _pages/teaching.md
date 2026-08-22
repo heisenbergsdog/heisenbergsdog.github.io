@@ -13,9 +13,6 @@ header:
 
   <div class="feature__item">
     <div class="archive__item">
-      <div class="archive__item-teaser">
-        <img src="/assets/images/teaching-level.png" alt="Illustration representing learning at the right level">
-      </div>
       <div class="archive__item-body">
         <h3>Teach the vocab!</h3>
         <p>
@@ -27,9 +24,6 @@ header:
 
   <div class="feature__item">
     <div class="archive__item">
-      <div class="archive__item-teaser">
-        <img src="/assets/images/teaching-active.png" alt="Illustration representing active problem solving">
-      </div>
       <div class="archive__item-body">
         <h3>Activities!</h3>
         <p>
@@ -42,9 +36,6 @@ header:
 
   <div class="feature__item">
     <div class="archive__item">
-      <div class="archive__item-teaser">
-        <img src="/assets/images/teaching-repeat.png" alt="Illustration representing repeated practice">
-      </div>
       <div class="archive__item-body">
         <h3>Review! Review! Review!</h3>
         <p>
