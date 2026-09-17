@@ -8,9 +8,7 @@ header:
   text_color: rgb(63,0,189)
 ---
 
-# Experience
-
-I've taught physics and mathematics at the graduate, undergraduate, and secondary-school levels, with experience designing course materials, leading tutorials and problem-solving sessions, holding office hours, and developing interactive lessons.
+I've taught physics and mathematics at the graduate, undergraduate, and secondary-school levels, with experience designing course materials, leading tutorials and problem-solving sessions, holding office hours, and developing interactive lessons. I also have a _Fundamentals of University Teaching_ certificate from the University of Waterloo Centre for Teaching Excellence.
 
 ## Graduate Teaching
 
