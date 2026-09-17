@@ -10,7 +10,7 @@ header:
 
 I've taught physics and mathematics at the graduate, undergraduate, and secondary-school levels, with experience designing course materials, leading tutorials and problem-solving sessions, holding office hours, and developing interactive lessons. I also have a _Fundamentals of University Teaching_ certificate from the University of Waterloo Centre for Teaching Excellence.
 
-## Graduate Teaching
+## Graduate Courses
 
 **Graduate Teaching Assistant, Cosmology**  
 *Perimeter Institute*  
@@ -42,7 +42,7 @@ Led tutorials and marked homework assignments.
 *Winter 2024*
 
 
-## Undergraduate Teaching
+## Undergraduate Courses
 
 **Graduate Teaching Assistant, Waves, Electricity, and Magnetism — PHYS 122**  
 *University of Waterloo*  
